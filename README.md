@@ -11,7 +11,7 @@ Termux Commands to run this program
 1) pip install lolcat
 2) pkg install jp2a
 3) git clone https://github.com/OwaisAmir/MT_Logo.git
-4) cd MT_logo
+4) cd MT_Logo
 5) unzip MT_logo.zip
 6) cd MT_logo
 7) chmod +x MT_logo.sh
