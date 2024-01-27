@@ -13,7 +13,6 @@ Termux Commands to run this program
 3) git clone https://github.com/OwaisAmir/MT_Logo.git
 4) cd MT_Logo
 5) unzip MT_logo.zip
-6) cd MT_logo
-7) chmod +x MT_logo.sh
-8) bash MT_logo.sh
+6) chmod +x MT_logo.sh
+7) bash MT_logo.sh
 
